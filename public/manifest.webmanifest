@@ -1,0 +1,19 @@
+﻿{
+  "name": "Canteen VWA - Quản lý Canteen",
+  "short_name": "Canteen VWA",
+  "description": "Hệ thống đặt món và quản lý Canteen VWA",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#2634d5",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
